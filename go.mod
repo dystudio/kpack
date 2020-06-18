@@ -9,7 +9,7 @@ require (
 	github.com/buildpacks/lifecycle v0.8.0
 	github.com/docker/docker v17.12.0-ce-rc1.0.20190924003213-a8608b5b67c7+incompatible // indirect
 	github.com/go-openapi/spec v0.19.8
-	github.com/google/go-cmp v0.4.1
+	github.com/google/go-cmp v0.5.0
 	github.com/google/go-containerregistry v0.1.0
 	github.com/gophercloud/gophercloud v0.4.0 // indirect
 	github.com/matthewmcnew/archtest v0.0.0-20191014222827-a111193b50ad
